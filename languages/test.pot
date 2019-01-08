@@ -1,0 +1,35 @@
+# Copyright (C) 2019 
+# This file is distributed under the same license as the test plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/test\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-08T20:37:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: test\n"
+
+#. Plugin Name of the plugin
+msgid "test"
+msgstr ""
+
+#: index.php:8
+msgid "test a"
+msgstr ""
+
+#: index.php:9
+msgid "test b"
+msgstr ""
+
+#: test.js:3
+msgid "test c"
+msgstr ""
+
+#: test.js:4
+msgid "test d"
+msgstr ""

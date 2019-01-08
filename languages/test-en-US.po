@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: gordie <gordie.lachance@gmail.com>\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-09-13 09:10+0000\n"
+"PO-Revision-Date: 2016-09-13 09:11+0000\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
+
+#. Plugin Name of the plugin
+msgid "test"
+msgstr ""
+
+#: index.php:8
+msgid "test a"
+msgstr ""
+
+#: index.php:9
+msgid "test b"
+msgstr ""
+
+#: test.js:3
+msgid "test c"
+msgstr ""
+
+#: test.js:4
+msgid "test d"
+msgstr ""
