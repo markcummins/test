@@ -1,7 +1,5 @@
 <?php
 
-phpinfo();
-
 /**
  * Plugin Name: test
  * Text Domain: test
